@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "python-web-hw06"
+version = "0.1.0"
+description = "python-web-hw06"
+authors = ["Vadym Koliada"]
+
+[tool.poetry.dependencies]
+python = "~3.11"
+Faker = "^19.6.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
